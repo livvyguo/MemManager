@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<memcache-manager>
+    <clients>
+        <client>
+            <name>localhost</name>
+            <host>127.0.0.1</host>
+            <port>11211</port>
+        </client>
+    </clients>
+</memcache-manager>
